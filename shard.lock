@@ -1,0 +1,50 @@
+version: 1.0
+shards:
+  CrystalEmail:
+    git: https://git.sceptique.eu/Sceptique/CrystalEmail.git
+    version: 0.2.3
+
+  cake:
+    github: axvm/cake
+    version: 1.0.0
+
+  cr-xmpp:
+    github: naqvis/cr-xmpp
+    version: 0.1.2
+
+  form_builder:
+    github: westonganger/form_builder.cr
+    commit: 9b17a4c2055d8b88afffcd1eadadd69c4530a95d
+
+  habitat:
+    github: luckyframework/habitat
+    version: 0.4.3
+
+  lucky_cli:
+    github: luckyframework/cli
+    version: 0.21.0
+
+  lucky_web:
+    github: luckyframework/lucky
+    version: 0.2.0
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.9
+
+  slang:
+    git: https://github.com/jeromegn/slang.git
+    version: 0.1.6
+
+  spectator:
+    gitlab: arctic-fox/spectator
+    version: 0.5.0
+
+  teeplate:
+    github: luckyframework/teeplate
+    version: 0.8.1
+
+  vcr:
+    git: git@github.com:spoved/vcr.cr.git
+    commit: e1698e1e5de90918a421a991febc925e74d9ed4e
+
