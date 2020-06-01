@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe RenovatebotCrystalTest do
+describe OutdatedDependenciesOnCrystal do
   # TODO: Write tests
 
   it "works" do

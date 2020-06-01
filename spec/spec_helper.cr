@@ -1,2 +1,2 @@
 require "spec"
-require "../src/renovatebot_crystal_test"
+require "../src/outdated_dependencies_on_crystal"
